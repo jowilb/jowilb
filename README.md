@@ -1,5 +1,6 @@
 # 💫 About Me:
 I am a passionate Web Developer who loves creating user-friendly and efficient web applications. I also have a growing interest in cybersecurity, focusing on building secure websites that perform well while staying safe from threats. I enjoy combining creativity and technical skills to deliver reliable and secure solutions.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jowilb" alt="jowilb" /></a> </p>
 
 
 ## 🌐 Socials:
@@ -17,5 +18,3 @@ I am a passionate Web Developer who loves creating user-friendly and efficient w
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jowilb&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
