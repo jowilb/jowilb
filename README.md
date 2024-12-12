@@ -1,6 +1,6 @@
 # 💫 About Me:
 I am a passionate Web Developer who loves creating user-friendly and efficient web applications. I also have a growing interest in cybersecurity, focusing on building secure websites that perform well while staying safe from threats. I enjoy combining creativity and technical skills to deliver reliable and secure solutions.
-[![trophy](https://github-profile-trophy.vercel.app/?username=jowilb&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jowilb&theme=monokai&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jonathan.wilb_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jonathan-wilbert-gunawan) 
